@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jaquelinegb
-- 👀 I’m interested in ter uma noção sobre programação
-- 🌱 I’m currently learning  sobre Python
-- 💞️ I’m looking to collaborate  com políticas públicas
-- 📫 How to reach me através de e-mail
+- 👀 I’m interested in getting a feel for programming
+- 🌱 I’m currently learning  about Python
+- 💞️ I try to collaborate with public policies
+- 📫 How to reach me através de e-mail jaquelinegiuliani@hotmail.com
 
 <!---
 Jaquelinegb/Jaquelinegb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
